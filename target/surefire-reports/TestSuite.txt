@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 596.046 sec <<< FAILURE! - in TestSuite
+runScenario(Runner_files.Login_positive_scenario_runner)  Time elapsed: 2.276 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9PA8N0S', ip: '192.168.43.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98
+*** Element info: {Using=xpath, value=//android.widget.TextView[13][@text='Log In']}
+
+runScenario(Runner_files.Login_positive_scenario_runner)  Time elapsed: 32.152 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9PA8N0S', ip: '192.168.43.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98
+*** Element info: {Using=xpath, value=//android.view.ViewGroup[11]}
+

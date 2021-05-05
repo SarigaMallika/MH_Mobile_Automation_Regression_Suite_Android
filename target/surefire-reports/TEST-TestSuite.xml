@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="596.046" tests="40" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="15.0.2+7-27"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\LENOVO\eclipse-workspace\Integrated_Framework_Mobile"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\LENOVO\eclipse-workspace\Integrated_Framework_Mobile"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="15.0.2+7-27"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\LENOVO\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\LENOVO\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6659296850425638981.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk-15.0.2/bin/server;C:/Program Files/Java/jdk-15.0.2/bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\LENOVO\Downloads\gradle-6.8.3-bin\gradle-6.8.3\bin;C:\Users\LENOVO\AppData\Local\Android;C:\Program Files\Java\jdk1.8.0_291;C:\JenkinsHome;C:\Program Files\nodejs\;C:\Users\LENOVO\AppData\Local\Android\platform-tools;C:\Program Files\Git\cmd;C:\Program Files\Sublime Text 3;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Users\LENOVO\AppData\Local\Programs\Python\Python38-32;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;C:\Users\LENOVO\AppData\Roaming\cabal\bin;C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.1\bin;C:\tools\msys64;C:\Python34\Scripts;C:\Users\LENOVO\AppData\Roaming\npm;C:\WINDOWS\System32;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="59.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\LENOVO"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="15"/>
+    <property name="user.name" value="LENOVO"/>
+    <property name="java.class.path" value="C:\Users\LENOVO\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20210129-0849\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-15.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="15.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\LENOVO\eclipse-workspace\Integrated_Framework_Mobile\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-01-19"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="runScenario" classname="Runner_files.Landing_positive_scenario_runner" time="13.718"/>
+  <testcase name="runScenario" classname="Runner_files.Landing_positive_scenario_runner" time="3.035"/>
+  <testcase name="runScenario" classname="Runner_files.Landing_positive_scenario_runner" time="5.295"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="13.225"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="9.297"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="6.111"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="5.607"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="22.477"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_positive_scenario_runner" time="31.868"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="27.401"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="8.439"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="5.214"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="7.982"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="19.059"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="20.88"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="8.843"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="2.659"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="9.931"/>
+  <testcase name="runScenario" classname="Runner_files.Signup_negative_scenario_runner" time="8.335"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_positive_scenario_runner" time="19.883"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_positive_scenario_runner" time="2.971"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_positive_scenario_runner" time="4.865"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_negative_scenario_runner" time="22.24"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_negative_scenario_runner" time="11.737"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_negative_scenario_runner" time="13.237"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_negative_scenario_runner" time="28.848"/>
+  <testcase name="runScenario" classname="Runner_files.Forgot_negative_scenario_runner" time="23.065"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="44.515"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="8.675"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="13.035"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="6.456"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="9.052"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="8.172"/>
+  <testcase name="runScenario" classname="Runner_files.Login_negative_scenario_runner" time="8.569"/>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="22.814"/>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="1.753"/>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="1.935"/>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="2.276">
+    <failure message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-9PA8N0S&apos;, ip: &apos;192.168.43.66&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98&#10;*** Element info: {Using=xpath, value=//android.widget.TextView[13][@text=&apos;Log In&apos;]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9PA8N0S', ip: '192.168.43.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98
+*** Element info: {Using=xpath, value=//android.widget.TextView[13][@text='Log In']}
+</failure>
+  </testcase>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="8.634"/>
+  <testcase name="runScenario" classname="Runner_files.Login_positive_scenario_runner" time="32.152">
+    <failure message="An element could not be located on the page using the given search parameters.&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;DESKTOP-9PA8N0S&apos;, ip: &apos;192.168.43.66&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;&#10;Driver info: io.appium.java_client.android.AndroidDriver&#10;Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}&#10;Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98&#10;*** Element info: {Using=xpath, value=//android.view.ViewGroup[11]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-9PA8N0S', ip: '192.168.43.66', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, databaseEnabled: false, desired: {appActivity: com.mpoweredhealth.MainActi..., appPackage: com.mpoweredhealth.demo, deviceName: POCO X2, platformName: android, platformVersion: 11 RKQ1.200826.002, udid: 80a4c051}, deviceApiLevel: 30, deviceManufacturer: Xiaomi, deviceModel: POCO X2, deviceName: 80a4c051, deviceScreenDensity: 440, deviceScreenSize: 1080x2400, deviceUDID: 80a4c051, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 95, takesScreenshot: true, udid: 80a4c051, viewportRect: {height: 2080, left: 0, top: 95, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 18ec4e2d-ce09-48bc-bfe2-f77b2d3f0f98
+*** Element info: {Using=xpath, value=//android.view.ViewGroup[11]}
+</failure>
+  </testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="1" parallel="tests" name="Test7(failed)" verbose="0">
+    <classes>
+      <class name="Runner_files.Login_positive_scenario_runner">
+        <methods>
+          <include name="runScenario" invocation-numbers="3 5"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- Runner_files.Login_positive_scenario_runner -->
+    </classes>
+  </test> <!-- Test7(failed) -->
+</suite> <!-- Failed suite [Suite] -->
